@@ -1,0 +1,150 @@
+.class-header .btnclassss{
+   padding-left: 110rem;
+}
+.imgclass{
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/xslider-1.jpg.pagespeed.ic.grltCgRAOJ.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    h1{
+        text-align: center;
+        padding-top: 11%;
+      color: white;
+      font-size: 4rem;
+    }
+    .classbtn2{
+      padding-left: 47%;
+      transition: all 2ms;
+       button{
+           background: transparent;
+           height: 4rem;
+           width: 15rem;
+         
+           &:hover{
+              background-color: white;
+           }
+       }
+    }
+    width: 100%;
+    height: 35rem;
+    background-color: brown;
+}
+.container .classtext{
+    padding-top: 6rem;
+   text-align: center;
+}
+.classboxss {
+    padding-top: 5rem;
+    .container .row .classcardimg {
+    img{
+        width: 100%;
+        height: 100%;
+    }
+  }
+}
+.classboxss .container .row .classcardtext{
+  line-height: 400%;
+  text-align: center;
+   .class-btn{
+   button{
+    background-color: transparent;
+   }
+   }
+}
+.classtext4 {
+  padding-top: 6rem;
+  padding-left: 35rem;
+  padding-right: 35rem;
+  h1{
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+  }
+  p{
+    padding-top: 0.5rem;
+  }
+}
+.classimg2{
+  padding-top: 5rem;
+}
+.classname{
+  padding-top: 5rem;
+  text-align: center;
+}
+.classabout {
+  height: 50rem;
+  padding-top: 4rem;
+  .container .row{
+    .classicon{
+      button{
+        border: none;
+        background-color: white;
+        i{
+          padding: 1rem;
+          color: red;
+          font-size: 2rem;
+        }
+      }
+    }
+    .classimg-2{
+      padding-left: 10rem;
+       padding-bottom: 3rem   ;
+      img{
+        height: 20rem;
+        width: 20rem;
+        border-radius: 50%;
+       text-align: center;
+    
+      }
+    }
+    .class-text{
+      text-align: center;
+    }
+  }
+}
+.classtext5 .container .row{
+  text-align: center;
+  padding-top: 5rem;
+  h1{
+    font-size: xx-large;
+  }
+  p{
+    padding-top: 1rem;
+  }
+}
+.boxs-3s .container .row .boxs2121{
+  display: flex;
+  padding-top: 4rem;
+  padding-left: 33rem;
+  .btn21{
+    button{
+      border: none;
+      color: red;
+    }
+  }
+  .btn22{
+    button{
+      border: none;
+      color: rgb(52, 151, 143);
+    }
+  }
+  .btn23{
+    button{
+      border: none;
+      color: rgb(77, 65, 65);
+    }
+  }
+}
+.boxs-3s .container .row .namr{
+  display: flex;
+  padding: 1rem;
+  padding-top: 3rem;
+  .classimgs{
+    img{
+      width: 10rem;
+    height: 10rem;
+    }
+  }
+} 

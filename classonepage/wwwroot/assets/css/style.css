@@ -1,0 +1,167 @@
+.class-header .btnclassss {
+  padding-left: 110rem;
+}
+
+.imgclass {
+  width: 100%;
+  height: 500px;
+  background-image: url(../img/xslider-1.jpg.pagespeed.ic.grltCgRAOJ.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 35rem;
+  background-color: brown;
+}
+
+.imgclass h1 {
+  text-align: center;
+  padding-top: 11%;
+  color: white;
+  font-size: 4rem;
+}
+
+.imgclass .classbtn2 {
+  padding-left: 47%;
+  -webkit-transition: all 2ms;
+  transition: all 2ms;
+}
+
+.imgclass .classbtn2 button {
+  background: transparent;
+  height: 4rem;
+  width: 15rem;
+}
+
+.imgclass .classbtn2 button:hover {
+  background-color: white;
+}
+
+.container .classtext {
+  padding-top: 6rem;
+  text-align: center;
+}
+
+.classboxss {
+  padding-top: 5rem;
+}
+
+.classboxss .container .row .classcardimg img {
+  width: 100%;
+  height: 100%;
+}
+
+.classboxss .container .row .classcardtext {
+  line-height: 400%;
+  text-align: center;
+}
+
+.classboxss .container .row .classcardtext .class-btn button {
+  background-color: transparent;
+}
+
+.classtext4 {
+  padding-top: 6rem;
+  padding-left: 35rem;
+  padding-right: 35rem;
+}
+
+.classtext4 h1 {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.classtext4 p {
+  padding-top: 0.5rem;
+}
+
+.classimg2 {
+  padding-top: 5rem;
+}
+
+.classname {
+  padding-top: 5rem;
+  text-align: center;
+}
+
+.classabout {
+  height: 50rem;
+  padding-top: 4rem;
+}
+
+.classabout .container .row .classicon button {
+  border: none;
+  background-color: white;
+}
+
+.classabout .container .row .classicon button i {
+  padding: 1rem;
+  color: red;
+  font-size: 2rem;
+}
+
+.classabout .container .row .classimg-2 {
+  padding-left: 10rem;
+  padding-bottom: 3rem;
+}
+
+.classabout .container .row .classimg-2 img {
+  height: 20rem;
+  width: 20rem;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.classabout .container .row .class-text {
+  text-align: center;
+}
+
+.classtext5 .container .row {
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.classtext5 .container .row h1 {
+  font-size: xx-large;
+}
+
+.classtext5 .container .row p {
+  padding-top: 1rem;
+}
+
+.boxs-3s .container .row .boxs2121 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 4rem;
+  padding-left: 33rem;
+}
+
+.boxs-3s .container .row .boxs2121 .btn21 button {
+  border: none;
+  color: red;
+}
+
+.boxs-3s .container .row .boxs2121 .btn22 button {
+  border: none;
+  color: #34978f;
+}
+
+.boxs-3s .container .row .boxs2121 .btn23 button {
+  border: none;
+  color: #4d4141;
+}
+
+.boxs-3s .container .row .namr {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 1rem;
+  padding-top: 3rem;
+}
+
+.boxs-3s .container .row .namr .classimgs img {
+  width: 10rem;
+  height: 10rem;
+}
+/*# sourceMappingURL=style.css.map */
